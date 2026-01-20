@@ -1,0 +1,7 @@
+/* src/components/Header.css */
+.header {
+  background: linear-gradient(135deg, #61dafb, #4fa3d1);
+  padding: 2rem;
+  text-align: center;
+  color: #fff;
+}
